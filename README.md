@@ -1,7 +1,7 @@
 # CPP Module 00 - Specificities of C++ vs C
 
 
-**"A first step into the world of Object-Oriented Programming (OOP), transitioning from procedural C to class-based C++ while mastering basic I/O and namespaces."**
+**A first step into the world of Object-Oriented Programming (OOP), transitioning from procedural C to class-based C++ while mastering basic I/O and namespaces.**
 
 
 
